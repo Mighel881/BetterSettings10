@@ -1,7 +1,7 @@
-Package: com.midnightchips.bettersettings
-Name: BetterSettings
-Depends: mobilesubstrate, com.creaturesurvive.libcscolorpicker, com.creaturecoding.libcspreferences, org.thebigboss.libcolorpicker
-Version: 0.0.6
+Package: com.midnightchips.bettersettings10
+Name: BetterSettings10
+Depends: mobilesubstrate, com.creaturesurvive.libcscolorpicker, com.creaturecoding.libcspreferences, org.thebigboss.libcolorpicker, firmware(<<11)
+Version: 0.0.1
 Architecture: iphoneos-arm
 Description: Settings your way
 Maintainer: midnightchips
