@@ -1,0 +1,59 @@
+<?xml version=1.0 encoding=UTF-8?>
+<!DOCTYPE plist PUBLIC -//Apple//DTD PLIST 1.0//EN http://www.apple.com/DTDs/PropertyList-1.0.dtd>
+<plist version=1.0>
+	<dict>
+		<key>items</key>
+		<array>
+			<dict>
+				<key>action</key>
+				<string>BS_enableDarkBubbles</string>
+				<key>cell</key>
+				<string>PSButtonCell</string>
+				<key>icon</key>
+				<string>patreon.png</string>
+				<key>label</key>
+				<string>Dark Bubble Mode</string>
+			</dict>
+			<dict>
+				<key>action</key>
+				<string>BS_enableLightBubbles</string>
+				<key>cell</key>
+				<string>PSButtonCell</string>
+				<key>icon</key>
+				<string>patreon.png</string>
+				<key>label</key>
+				<string>Light Bubble Mode</string>
+			</dict>
+			<dict>
+				<key>action</key>
+				<string>BS_enableDarkClean</string>
+				<key>cell</key>
+				<string>PSButtonCell</string>
+				<key>icon</key>
+				<string>patreon.png</string>
+				<key>label</key>
+				<string>Dark Clean Mode</string>
+			</dict>
+			<dict>
+				<key>action</key>
+				<string>BS_enableImage</string>
+				<key>cell</key>
+				<string>PSButtonCell</string>
+				<key>icon</key>
+				<string>patreon.png</string>
+				<key>label</key>
+				<string>Preset Image Mode</string>
+			</dict>
+			<dict>
+				<key>cell</key>
+				<string>PSGroupCell</string>
+				<key>footerText</key>
+				<string>MidnightChips © 2018</string>
+				<key>footerAlignment</key>
+				<integer>1</integer>
+			</dict>
+		</array>
+		<key>title</key>
+		<string>Presets</string>
+	</dict>
+</plist>
